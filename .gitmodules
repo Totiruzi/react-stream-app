@@ -1,0 +1,3 @@
+[submodule "react_navigation"]
+	path = react_navigation
+	url = https://github.com/Totiruzi/react_navigation.git
