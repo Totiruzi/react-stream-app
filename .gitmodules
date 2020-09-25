@@ -1,3 +1,6 @@
 [submodule "react_navigation"]
 	path = react_navigation
 	url = https://github.com/Totiruzi/react_navigation.git
+[submodule "back-end-for-video-stream-app"]
+	path = back-end-for-video-stream-app
+	url = https://github.com/Totiruzi/back-end-for-video-stream-app.git
